@@ -1,1 +1,1 @@
-from .FranciscoCasado import *
+from FranciscoCasado import *
