@@ -1,8 +1,0 @@
-README.md
-setup.py
-FP09FranciscoCasado.egg-info/PKG-INFO
-FP09FranciscoCasado.egg-info/SOURCES.txt
-FP09FranciscoCasado.egg-info/dependency_links.txt
-FP09FranciscoCasado.egg-info/top_level.txt
-mod_FranciscoCasado/FranciscoCasado.py
-mod_FranciscoCasado/__init__.py
